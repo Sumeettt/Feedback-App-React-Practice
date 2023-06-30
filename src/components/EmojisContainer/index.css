@@ -1,0 +1,21 @@
+.each-emoji-item {
+  list-style-type: none;
+  width: 15%;
+}
+.emoji-btn {
+  border: none;
+  background-color: #ffffff;
+  cursor: pointer;
+  outline: none;
+}
+
+.emoji {
+  width: 100%;
+}
+
+.emoji-text {
+  text-align: center;
+  color: #0f172a;
+  font-size: 20px;
+  font-family: roboto;
+}
